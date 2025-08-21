@@ -30,3 +30,9 @@ Clone this repository:
 ```bash
 git clone https://github.com/YOUR-USERNAME/multichain-explorer.git
 cd multichain-explorer
+cd frontend
+npm install
+npm start# Example for backend
+MULTICHAIN_RPC=http://127.0.0.1:8570
+MULTICHAIN_USER=multichainrpc
+MULTICHAIN_PASS=yourpassword
